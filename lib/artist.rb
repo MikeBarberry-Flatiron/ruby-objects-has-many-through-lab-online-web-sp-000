@@ -20,3 +20,4 @@ class Artist
 end
 
 kanye = Artist.new("Kanye")
+puts kanye.name 
