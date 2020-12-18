@@ -1,3 +1,5 @@
+require_relative "appointment.rb"
+
 class Doctor
   attr_accessor :name
 
