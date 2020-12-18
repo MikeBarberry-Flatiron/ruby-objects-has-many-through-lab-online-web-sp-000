@@ -18,3 +18,5 @@ class Artist
     Song.new(name, genre, self)
   end
 end
+
+kanye = Artist.new("Kanye")
