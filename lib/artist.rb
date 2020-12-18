@@ -20,4 +20,4 @@ class Artist
 end
 
 kanye = Artist.new("Kanye")
-puts kanye.name 
+kanye.new_song("Lights", "hip-hop")
