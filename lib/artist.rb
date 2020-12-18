@@ -22,4 +22,4 @@ end
 kanye = Artist.new("Kanye")
 kanye.new_song("Lights", "hip-hop")
 
-puts Songs.all
+puts Song.all
